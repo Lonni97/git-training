@@ -1,0 +1,6 @@
+name[0]="Aulon"
+name[1]="Qerreti"
+name[2]="Peje"
+name[3]="Kosove"
+echo "metoda 1: ${name[*]}"
+echo "metoda 2: ${name[@]}"
